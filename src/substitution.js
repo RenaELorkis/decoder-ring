@@ -5,6 +5,7 @@
 
 const substitutionModule = (() => {
   // you can add any code you want within this function scope
+  // console.log(abc)
   const abc = "abcdefghijklmnopqrstuvwxyz";
 
   function otherCharacters(input) {
